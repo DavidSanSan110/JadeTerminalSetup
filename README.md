@@ -1,5 +1,7 @@
 # JadeTerminalSetup
 
+If you like this repo, please don't forget to star it ✨✨
+
 ## Requirements
 
 - [**Jade**]  Library in project lib folder

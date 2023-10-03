@@ -7,7 +7,7 @@
 - [**javac**] javac 17.0.1 used in development, but any version should work
 - [**jade**]  Add to CLASSPATH variable the path to jade.jar (java jade.Boot -gui should work if jade.jar is in CLASSPATH)
 
-## How to run
+## Execution Guide
  
 Open Powershell in the project folder and run the following commands:
 - `cd src` Enter src folder
@@ -21,7 +21,7 @@ Open Powershell in the project folder and run the following commands:
 
 For terminating the agents press CTRL + C in the terminal where they gui is running (Terminal 1)
 
-## How to use
+## Notes
 
 - After running java jade.Boot -gui, the jade gui should open
 - Client agent is used to send messages to AgentX and AgentY

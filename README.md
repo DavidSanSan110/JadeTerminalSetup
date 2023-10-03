@@ -3,8 +3,8 @@
 ## Requirements
 
 - [**Jade**]  Library in project lib folder
-- [**java**]  openjdk 17.0.1
-- [**javac**] javac 17.0.1
+- [**java**]  openjdk 17.0.1 used in development, but any version should work
+- [**javac**] javac 17.0.1 used in development, but any version should work
 - [**jade**]  Add to CLASSPATH variable the path to jade.jar (java jade.Boot -gui should work if jade.jar is in CLASSPATH)
 
 ## How to run

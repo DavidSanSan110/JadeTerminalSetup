@@ -15,9 +15,9 @@ Open Powershell in the project folder and run the following commands:
 - `javac agents/*.java` to compile the agents (Terminal 1)
 - `java jade.Boot -gui` to run the jade gui (Terminal 1)
 - `java jade.Boot -container Client:agents.Client` to run the client agent (Terminal 2)
-- `java jade.Boot -container AgentZ:agents.AgentZ` to run the agent Z (Terminal 3) (See how it terminates after printing a message then CTRL + C)
-- `java jade.Boot -container AgentX:agents.AgentX` to run the agent X (Terminal 3) (See how it terminates after answering 3 times then CTRL + C)
-- `java jade.Boot -container AgentY:agents.AgentY` to run the agent Y (Terminal 3) (See how it keeps answering the client forever then CTRL + C)
+- `java jade.Boot -container AgentZ:agents.AgentZ` to run the agent Z (Terminal 3) (See how it terminates after printing a message, then CTRL + C)
+- `java jade.Boot -container AgentX:agents.AgentX` to run the agent X (Terminal 3) (See how it terminates after answering 3 times, then CTRL + C)
+- `java jade.Boot -container AgentY:agents.AgentY` to run the agent Y (Terminal 3) (See how it keeps answering the client forever, then CTRL + C)
 
 For terminating the agents press CTRL + C in the terminal where they gui is running (Terminal 1)
 
